@@ -1,20 +1,4 @@
 🔞一本▪电影,#genre#
-
-一本720P01,https://videony.rhsj520.com/jlb0707/060509-080A/1500kb/hls/index.m3u8
-一本720P02,https://videony.rhsj520.com/jlb0707/060509-080B/1500kb/hls/index.m3u8
-一本720P03,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/121115_205-1pon/index.m3u8
-一本720P04,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/120915_204-1pon/index.m3u8
-一本720P05,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_193-1pon/index.m3u8
-一本720P06,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/112015_004-1pon/index.m3u8
-一本720P07,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/111915_192-1pon/index.m3u8
-一本720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/110615_185-1pon/index.m3u8
-一本720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/092315_158-1pon/index.m3u8
-一本720P10,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090515_148-1pon/index.m3u8
-一本720P11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090415_147-1pon/index.m3u8
-一本720P12,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/090215_146-1pon/index.m3u8
-一本720P13,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082715_142-1pon/index.m3u8
-一本720P14,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082515_141-1pon/index.m3u8
-一本720P15,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/082215_140-1pon/index.m3u8
 一本720P16,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081815_137-1pon/index.m3u8
 一本720P17,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081615_136-1pon/index.m3u8
 一本720P18,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081515_135-1pon/index.m3u8
@@ -105,11 +89,6 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 
 🔞东热▪电影,#genre#
-
-东热720P01,https://videony.rhsj520.com/20191027/WoTBapoK/1500kb/hls/index.m3u8
-东热720P02,https://videony.rhsj520.com/20191027/71zzDSxi/1500kb/hls/index.m3u8
-东热720P03,https://videony.rhsj520.com/20191006/N1396/1500kb/hls/index.m3u8
-东热720P04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 东热720P05,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
 东热720P06,https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
 东热720P07,https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
@@ -139,24 +118,6 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 
 🔞加勒▪电影,#genre#
-
-加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
-加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
-加勒比720P03,https://videony.rhsj520.com/jlb0707/051709-065/1500kb/hls/index.m3u8
-加勒比720P04,https://videony.rhsj520.com/jlb0707/050309-052/1500kb/hls/index.m3u8
-加勒比720P05,https://videony.rhsj520.com/jlb0707/041709-037/1500kb/hls/index.m3u8
-加勒比720P06,https://videony.rhsj520.com/jlb0707/060609-087/1500kb/hls/index.m3u8
-加勒比720P07,https://videony.rhsj520.com/jlb0707/061109_546B/1500kb/hls/index.m3u8
-加勒比720P08,https://videony.rhsj520.com/jlb0707/061109_546A/1500kb/hls/index.m3u8
-加勒比720P09,https://videony.rhsj520.com/jlb0707/061309-081/1500kb/hls/index.m3u8
-加勒比720P10,https://videony.rhsj520.com/jlb0707/071109-112/1500kb/hls/index.m3u8
-加勒比720P11,https://videony.rhsj520.com/jlb0707/081309-139A/1500kb/hls/index.m3u8
-加勒比720P12,https://videony.rhsj520.com/jlb0707/081309-139B/1500kb/hls/index.m3u8
-加勒比720P13,https://videony.rhsj520.com/jlb0707/082909-152/1500kb/hls/index.m3u8
-加勒比720P14,https://videony.rhsj520.com/jlb0707/091809-169/1500kb/hls/index.m3u8
-加勒比720P15,https://videony.rhsj520.com/jlb0707/100309-181/1500kb/hls/index.m3u8
-加勒比720P16,https://videony.rhsj520.com/jlb0707/100909-186/1500kb/hls/index.m3u8
-加勒比720P17,https://videony.rhsj520.com/jlb0707/101609-192/1500kb/hls/index.m3u8
 加勒比720P18,https://video1.rhsj520.com/nyrm3/jlb-112/010711-584/1500kb/hls/index.m3u8
 加勒比720P19,https://video1.rhsj520.com/nyrm3/jlb-112/010811-585/1500kb/hls/index.m3u8
 加勒比720P20,https://video1.rhsj520.com/nyrm3/jlb-112/101110-505/1500kb/hls/index.m3u8
@@ -191,164 +152,8 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 加勒比720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 加勒比720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 
-🔞外国▪电影,#genre#
 
-欧美1,https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
-欧美2,https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
-欧美3,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
-街头搭讪放浪少女,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/e3821ad5/index.m3u8
-風騷少婦出軌報仇,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/e3821ad5/index.m3u8
-LAA-0004X爱瑜伽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe8/index.m3u8
-金毛狮,https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/aad5c620/index.m3u8
-少妇zuoai,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/eca6b7ec/index.m3u8
-大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
-美丽的奴隶,https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
-丝W台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
-黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
-车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
-Brazzers TV ,http://89.248.160.57/iptv/URFPS4QVV53QPF/910/index.m3u8
-Brazzers,http://89.248.160.57/iptv/URFPS4QVV53QPF/6182/index.m3u8
-XYMaxHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6286/index.m3u8
-XYPlusHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6288/index.m3u8
-XYMix HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6287/index.m3u8
-Venus,http://89.248.160.57/iptv/URFPS4QVV53QPF/6284/index.m3u8
-Hot Pleasure,http://89.248.160.57/iptv/URFPS4QVV53QPF/6275/index.m3u8
-Dusk,http://89.248.160.57/iptv/URFPS4QVV53QPF/6198/index.m3u8
-French Lover,http://89.248.160.57/iptv/URFPS4QVV53QPF/2160/index.m3u8
-RealityKings,http://89.248.160.57/iptv/URFPS4QVV53QPF/6247/index.m3u8
-SuperOne,http://89.248.160.57/iptv/URFPS4QVV53QPF/6298/index.m3u8
-Barelylegal,http://89.248.160.57/iptv/URFPS4QVV53QPF/871/index.m3u8
-PlayboyTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6242/index.m3u8
-VividRedHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2162/index.m3u8
-vividtv,http://89.248.160.57/iptv/URFPS4QVV53QPF/6264/index.m3u8
-Русская ночь,http://89.248.160.57/iptv/URFPS4QVV53QPF/147/index.m3u8
-Erox HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2397/index.m3u8
-Eroxxx HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5015/index.m3u8
-Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/244/index.m3u8
-Private,http://89.248.160.57/iptv/URFPS4QVV53QPF/243/index.m3u8
-privateHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6245/index.m3u8
-Redlight,http://89.248.160.57/iptv/URFPS4QVV53QPF/242/index.m3u8
-RedlightHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6247/index.m3u8
-Jasmin TV,http://iptvstream.xyz:8080/live/14095/4519cc03/375.m3u8
-Babes,http://89.248.160.57/iptv/URFPS4QVV53QPF/6171/index.m3u8
-Babes TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6172/index.m3u8
-penthousTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/1073/index.m3u8
-Penthouse Gold HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5011/index.m3u8
-Penthouse Quickies,http://89.248.160.57/iptv/URFPS4QVV53QPF/5013/index.m3u8
-O-la-la,http://89.248.160.57/iptv/URFPS4QVV53QPF/2161/index.m3u8
-Blue Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/1064/index.m3u8
-Dorcel TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/245/index.m3u8
-Extasy HD ,http://89.248.160.57/iptv/URFPS4QVV53QPF/5014/index.m3u8
-XXL ,http://89.248.160.57/iptv/URFPS4QVV53QPF/5009/index.m3u8
-FAP TV 2,http://89.248.160.57/iptv/URFPS4QVV53QPF/6203/index.m3u8
-FAP TV 3,http://89.248.160.57/iptv/URFPS4QVV53QPF/6204/index.m3u8
-FAP TV 4,http://89.248.160.57/iptv/URFPS4QVV53QPF/6205/index.m3u8
-FAP TV Parody,http://89.248.160.57/iptv/URFPS4QVV53QPF/6210/index.m3u8
-FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
-FAP TV Anal,http://89.248.160.57/iptv/URFPS4QVV53QPF/6206/index.m3u8
-FAP TV Teens,http://89.248.160.57/iptv/URFPS4QVV53QPF/6211/index.m3u8
-FAP TV Lesbian,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
-FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8 
-
-🔞晴天CR,#genre#
-彩虹e台,p2p://ns2.hellotvvod.com:9906/cf20d76adc714fbdb4ca78d04e7f5603
-彩虹电影台,p2p://ns2.hellotvvod.com:9906/ef5cd5a18d82469ea6830b713e656180
-LOOK TV,p2p://ns2.hellotvvod.com:9906/ca1959a12bf04d05a7df2125f42bea99
-潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/8554e4b24e8a4d2eb771005b728c4691
-惊艳CR电影台,p2p://ns2.hellotvvod.com:9906/da3a9baff14347fc9a6ec367b9f27e8d
-松视1台,p2p://ns2.hellotvvod.com:9906/5bcef50ca4774f3faac7dfb84bc35c28
-松视2台,p2p://ns2.hellotvvod.com:9906/a86e3e4084f540f8a543ac352cf78176
-潘朵啦粉台,p2p://ns2.hellotvvod.com:9906/c132df43fcee4b919900dcda1258a095
-PLAYBOY,p2p://ns2.hellotvvod.com:9906/015e18b380f24e9da4daa517ab6c0b20
-香蕉台,p2p://ns2.hellotvvod.com:9906/f4aae30970484539ad3f4f778577fedb
-HOT,p2p://ns2.hellotvvod.com:9906/c19c9d13d0834e95b98c8f80b05e2dde
-松视3台,p2p://ns2.hellotvvod.com:9906/13b8116f51a942de95838f778b25a9fd
-JStar极限台,p2p://ns2.hellotvvod.com:9906/8b72c05e74bf4f8592b362b26f48bb01
-HAPPY,p2p://ns2.hellotvvod.com:9906/e58aef6e0ffc43b486ae2b0973629659
-K,p2p://ns2.hellotvvod.com:9906/3b92a81a1acd403e801b899150d2bf50
-🔞彩虹▪电影,#genre#
-
-松视1,http://jiekou.gq/dsb/dsb.php?id=71  
-松视2,http://jiekou.gq/dsb/dsb.php?id=72  
-松视3,http://jiekou.gq/dsb/dsb.php?id=73  
-松视4,http://jiekou.gq/dsb/dsb.php?id=74  
-直播1,http://jiekou.gq/dsb/dsb.php?id=76  
-直播2,http://jiekou.gq/dsb/dsb.php?id=77  
-直播3,http://jiekou.gq/dsb/dsb.php?id=78  
-直播4,http://jiekou.gq/dsb/dsb.php?id=79  
-直播5,http://jiekou.gq/dsb/dsb.php?id=80  
-直播6,http://jiekou.gq/dsb/dsb.php?id=81  
-直播7,http://jiekou.gq/dsb/dsb.php?id=82  
-直播8,http://jiekou.gq/dsb/dsb.php?id=83  
-直播9,http://jiekou.gq/dsb/dsb.php?id=84  
-直播10,http://jiekou.gq/dsb/dsb.php?id=85  
-HOT欧美版,http://jiekou.gq/dsb/dsb.php?id=86  
-K频道欧美版,http://jiekou.gq/dsb/dsb.php?id=87  
-松视1欧美版,http://jiekou.gq/dsb/dsb.php?id=88  
-松视2欧美版,http://jiekou.gq/dsb/dsb.php?id=89  
-松视3欧美版,http://jiekou.gq/dsb/dsb.php?id=90  
-一本欧美版,http://jiekou.gq/dsb/dsb.php?id=91  
-二本欧美版,http://jiekou.gq/dsb/dsb.php?id=92  
-惊艳台欧美版,http://jiekou.gq/dsb/dsb.php?id=93  
-粉荭台欧美版,http://jiekou.gq/dsb/dsb.php?id=94  
-玩美台欧美版,http://jiekou.gq/dsb/dsb.php?id=95  
-潘多拉欧美版,http://jiekou.gq/dsb/dsb.php?id=96  
-潘多拉玩美,http://jiekou.gq/dsb/dsb.php?id=97  
-香蕉台欧美版,http://jiekou.gq/dsb/dsb.php?id=98  
-俄罗斯成R1台,http://jiekou.gq/dsb/dsb.php?id=99  
-俄罗斯成R2台,http://jiekou.gq/dsb/dsb.php?id=100  
-俄罗斯成R3台,http://jiekou.gq/dsb/dsb.php?id=101  
-俄罗斯成R4台,http://jiekou.gq/dsb/dsb.php?id=102  
-俄罗斯成R5台,http://jiekou.gq/dsb/dsb.php?id=103  
-限制级电影,http://jiekou.gq/dsb/dsb.php?id=104  
-直播 720,http://jiekou.gq/dsb/dsb.php?id=105  
 🔞麻豆▪一区,#genre#
-丝W台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6237/index.m3u8
-黑人台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6178/index.m3u8
-车震台,http://89.248.160.57/iptv/URFPS4QVV53QPF/6202/index.m3u8
-Brazzers TV ,http://89.248.160.57/iptv/URFPS4QVV53QPF/910/index.m3u8
-Brazzers,http://89.248.160.57/iptv/URFPS4QVV53QPF/6182/index.m3u8
-XYMaxHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6286/index.m3u8
-XYPlusHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6288/index.m3u8
-XYMix HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6287/index.m3u8
-Venus,http://89.248.160.57/iptv/URFPS4QVV53QPF/6284/index.m3u8
-Hot Pleasure,http://89.248.160.57/iptv/URFPS4QVV53QPF/6275/index.m3u8
-Dusk,http://89.248.160.57/iptv/URFPS4QVV53QPF/6198/index.m3u8
-French Lover,http://89.248.160.57/iptv/URFPS4QVV53QPF/2160/index.m3u8
-RealityKings,http://89.248.160.57/iptv/URFPS4QVV53QPF/6247/index.m3u8
-SuperOne,http://89.248.160.57/iptv/URFPS4QVV53QPF/6298/index.m3u8
-Barelylegal,http://89.248.160.57/iptv/URFPS4QVV53QPF/871/index.m3u8
-PlayboyTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6242/index.m3u8
-VividRedHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2162/index.m3u8
-vividtv,http://89.248.160.57/iptv/URFPS4QVV53QPF/6264/index.m3u8
-Русская ночь,http://89.248.160.57/iptv/URFPS4QVV53QPF/147/index.m3u8
-Erox HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/2397/index.m3u8
-Eroxxx HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5015/index.m3u8
-Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/244/index.m3u8
-Private,http://89.248.160.57/iptv/URFPS4QVV53QPF/243/index.m3u8
-privateHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6245/index.m3u8
-Redlight,http://89.248.160.57/iptv/URFPS4QVV53QPF/242/index.m3u8
-RedlightHD,http://89.248.160.57/iptv/URFPS4QVV53QPF/6247/index.m3u8
-Jasmin TV,http://iptvstream.xyz:8080/live/14095/4519cc03/375.m3u8
-Babes,http://89.248.160.57/iptv/URFPS4QVV53QPF/6171/index.m3u8
-Babes TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/6172/index.m3u8
-penthousTV,http://89.248.160.57/iptv/URFPS4QVV53QPF/1073/index.m3u8
-Penthouse Gold HD,http://89.248.160.57/iptv/URFPS4QVV53QPF/5011/index.m3u8
-Penthouse Quickies,http://89.248.160.57/iptv/URFPS4QVV53QPF/5013/index.m3u8
-O-la-la,http://89.248.160.57/iptv/URFPS4QVV53QPF/2161/index.m3u8
-Blue Hustler,http://89.248.160.57/iptv/URFPS4QVV53QPF/1064/index.m3u8
-Dorcel TV,http://89.248.160.57/iptv/URFPS4QVV53QPF/245/index.m3u8
-Extasy HD ,http://89.248.160.57/iptv/URFPS4QVV53QPF/5014/index.m3u8
-XXL ,http://89.248.160.57/iptv/URFPS4QVV53QPF/5009/index.m3u8
-FAP TV 2,http://89.248.160.57/iptv/URFPS4QVV53QPF/6203/index.m3u8
-FAP TV 3,http://89.248.160.57/iptv/URFPS4QVV53QPF/6204/index.m3u8
-FAP TV 4,http://89.248.160.57/iptv/URFPS4QVV53QPF/6205/index.m3u8
-FAP TV Parody,http://89.248.160.57/iptv/URFPS4QVV53QPF/6210/index.m3u8
-FAP TV Compilation,http://89.248.160.57/iptv/URFPS4QVV53QPF/6208/index.m3u8
-FAP TV Anal,http://89.248.160.57/iptv/URFPS4QVV53QPF/6206/index.m3u8
-FAP TV Teens,http://89.248.160.57/iptv/URFPS4QVV53QPF/6211/index.m3u8
-FAP TV Lesbian,http://89.248.160.57/iptv/URFPS4QVV53QPF/6209/index.m3u8
-FAP TV BW,http://89.248.160.57/iptv/URFPS4QVV53QPF/6207/index.m3u8 
 补新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 补新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 补新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
